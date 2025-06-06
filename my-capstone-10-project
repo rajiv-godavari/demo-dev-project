@@ -1,0 +1,6 @@
+git init
+git status
+git add.
+git commit -m "Initial DevOps demo commit"
+git remote add origin https://github.com/yourname/devops-demo.git
+git push -u origin main
